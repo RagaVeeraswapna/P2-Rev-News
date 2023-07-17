@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "__typename": "User",
+      "id": 1,
+      "firstName": "Akshayaa",
+      "lastName": "B",
+      "email": "akshayaa2509@gmail.com",
+      "password": "Aksh@259",
+      "phone": "6304658521",
+      "country": "AU"
+    }
+  ],
+  "savedArticles": [
+    {
+      "email": "akshayaa2509@gmail.com",
+      "savedArticles": [
+        {
+          "source": {
+            "id": null,
+            "name": "NDTV News"
+          },
+          "author": null,
+          "title": "7.4 Magnitude Earthquake Near US' Alaska, Tsunami Warning Issued - NDTV",
+          "description": "A massive 7.4 magnitude earthquake today struck the Alaska Peninsula region, according to the United States Geological Survey",
+          "url": "https://www.ndtv.com/world-news/7-4-magnitude-earthquake-near-us-alaska-tsunami-warning-issued-4211919",
+          "urlToImage": "https://i.ndtvimg.com/i/2017-09/earthquake-generic_650x400_71505899871.jpg",
+          "publishedAt": "2023-07-16T07:11:36Z",
+          "content": "New Delhi: A massive 7.4 magnitude earthquake today struck the Alaska Peninsula region, according to the United States Geological Survey (USGS). A tsunami warning was issued for some areas of the US … [+790 chars]"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "email": "swapna@gmail.com",
+      "savedArticles": [],
+      "id": 2
+    }
+  ]
+}
